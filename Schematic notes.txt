@@ -1,0 +1,3 @@
+Note: 
+
+The push button in the schematic may be wired differently.
