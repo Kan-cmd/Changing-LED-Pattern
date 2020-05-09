@@ -1,0 +1,20 @@
+This project was done on a Raspberry Pi 3 B+, on Linux/Unix based operating system (Raspbian) in the terminal using the "nano" command to create a file.
+
+The deviced used can be purchased on Amazon (CanaKit Raspberry Pi 3 B+ (B Plus)Starter Kit (32 GB EVO+ Edition, Premium Black Case) with PiSwitch).
+https://www.amazon.ca/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_3?crid=5VM1KEROD6JL&keywords=canakit+raspberry+pi+3&qid=1588981140&sprefix=cana+kit+%2Caps%2C151&sr=8-3 
+
+Parts used in this projects can also be purchased on Amazon in a Freenova Kit.(Freenove Ultrasonic Starter Kit for Raspberry Pi 4 B 3 B+, 358 Pages Detailed Tutorials, Python C Java, 171 Items, 47 Projects, Learn Electronics and Programming, Solderless Breadboard)
+https://www.amazon.ca/Freenove-Ultrasonic-Raspberry-Processing-Tutorials/dp/B06X1BPH8D/ref=sr_1_2?keywords=freenova&qid=1588981188&sr=8-2 
+
+Parts for this project:
+
+ - 40 pin GPIO cable 
+ - Breadboard
+ - GPIO extention Board
+ - I2C LCD 1602
+ - 5 LEDS
+ - 5 220 ohm or greater resistors
+ - 1 push button
+ - 1 potentiometer/variable resistor
+ - 1 PCF8591 PCB convertor
+ - Jumper wires
